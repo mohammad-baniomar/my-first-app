@@ -1,2 +1,2 @@
-# my-first-app
-مشروعي الأول على جيت هاب لتعلم البرمجة
+# My First Code
+This is a simple project created by me to learn GitHub.
